@@ -1,8 +1,8 @@
 {
-  "title": "Docker Workshop",
-  "description": "Docker Installation",
-  "difficulty": "Beginner",
-  "time": "30m",
+  "title": "Wordpress and Mysql Deployment",
+  "description": "Deploying 2 Tier Application",
+  "difficulty": "Advanced",
+  "time": "45m",
   "details": {
     "steps": [
       {
@@ -24,6 +24,10 @@
       {
         "title": "Step 5",
         "text": "step5.md"
+      },
+      {
+        "title": "Step 6",
+        "text": "step6.md"
       }
     ],
     "intro": {
@@ -34,9 +38,9 @@
     }
   },
   "environment": {
-    "uilayout": "terminal"
+    "uilayout": "editor-terminal-split"
   },
   "backend": {
-    "imageid": "minikube"
+    "imageid": "minikube-running"
   }
 }
