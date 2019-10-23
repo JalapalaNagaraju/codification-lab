@@ -37,8 +37,8 @@
       "text": "finish.md"
     }
   },
-  "environment": {
-    "uilayout": "editor-terminal-split"
+"environment": {
+    "uilayout": "editor-terminal"
   },
   "backend": {
     "imageid": "minikube-running"
